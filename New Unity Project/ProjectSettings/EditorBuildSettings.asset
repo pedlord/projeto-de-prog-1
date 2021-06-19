@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c07fe030f7bb9fe4388eb0c2ac593741
+  - enabled: 1
+    path: Assets/Scenes/Demo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Fight.unity
+    guid: cc4c8d50dea362a41bd40ef52b88ee5f
+  - enabled: 1
+    path: Assets/Scenes/FightIA.unity
+    guid: 15fff4fbde7fa584586d19caa9a0fb6d
+  - enabled: 1
+    path: Assets/Scenes/FightSpecial.unity
+    guid: 3f7b5bca3cd671d478fa0151e52f97f7
+  - enabled: 1
+    path: Assets/Scenes/Vencer.unity
+    guid: bf4f48316c33e434aade7566b0aa50cc
+  - enabled: 1
+    path: Assets/Scenes/Perder.unity
+    guid: 6bed68ef85ff35746827501c92dbff62
+  m_configObjects: {}
